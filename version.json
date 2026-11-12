@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.1",
-    "downloadUrl":  "https://github.com/paras-44a55/lms/releases/download/v1.0.1/lms-update-1.0.1.zip",
-    "sha256":  "9abfb2f7c57f6be2273f20690a7f9d87831e5e6fa79ff460b2baf4002e8ac170",
-    "releaseNotes":  "Kiosk fixes, API start retry, reset-link and login fixes"
+    "version":  "1.0.2",
+    "downloadUrl":  "https://github.com/paras-44a55/lms/releases/download/v1.0.2/lms-update-1.0.2.zip",
+    "sha256":  "6cac139179481a2b7f8628b8963e5913dfdbf9cbf548de83dc7eeccc12e73d23",
+    "releaseNotes":  "Label printing: warns before browser printing (no RFID written) and when the label printer is not in ZPL mode (e.g. Printronix PGL)"
 }
