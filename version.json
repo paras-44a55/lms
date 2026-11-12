@@ -1,7 +1,7 @@
 {
     "available":  true,
-    "version":  "1.0.2",
-    "downloadUrl":  "https://github.com/paras-44a55/lms/releases/download/v1.0.2/lms-update-1.0.2.zip",
-    "sha256":  "6cac139179481a2b7f8628b8963e5913dfdbf9cbf548de83dc7eeccc12e73d23",
-    "releaseNotes":  "Label printing: warns before browser printing (no RFID written) and when the label printer is not in ZPL mode (e.g. Printronix PGL)"
+    "version":  "1.0.3",
+    "downloadUrl":  "https://github.com/paras-44a55/lms/releases/download/v1.0.3/lms-update-1.0.3.zip",
+    "sha256":  "46c4bb564c2fba57c0cefcea983d8802200246e6bfda6ea3cbee0a0871b0150f",
+    "releaseNotes":  "Printing: a printer plugged into the LMS server prints from every staff PC (no agent needed on the PC); the label printer is picked automatically when only one is installed"
 }
