@@ -1,0 +1,7 @@
+{
+    "available":  true,
+    "version":  "1.0.1",
+    "downloadUrl":  "https://github.com/paras-44a55/lms/releases/download/v1.0.1/lms-update-1.0.1.zip",
+    "sha256":  "9abfb2f7c57f6be2273f20690a7f9d87831e5e6fa79ff460b2baf4002e8ac170",
+    "releaseNotes":  "Kiosk fixes, API start retry, reset-link and login fixes"
+}
